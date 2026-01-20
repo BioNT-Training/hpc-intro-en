@@ -32,7 +32,7 @@ To address this ambiguity, the [International System of
 Quantities](https://en.wikipedia.org/wiki/International_System_of_Quantities)
 standardizes the *binary* prefixes (with base of 2<sup>10</sup>\=1024) by the
 prefixes Kibi (ki), Mebi (Mi), Gibi (Gi), etc. For more details, see
-[here](https://en.wikipedia.org/wiki/Binary_prefix).
+[the Wikipedia Binary Prefix article](https://en.wikipedia.org/wiki/Binary_prefix).
 
 ### "No such file or directory" or "symbol 0096" Errors
 
