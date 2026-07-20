@@ -40,7 +40,7 @@ jobs:
         with:
           r-version: '4.5.3'
           use-public-rspm: true
-          install-r: false
+          install-r: true
 
       - name: "Set up Pandoc"
         uses: r-lib/actions/setup-pandoc@v2
